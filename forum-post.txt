@@ -5,7 +5,7 @@
 [b]Developer:[/b] Exanurous[/size]
 
 Preview: https://imgbox.com/iJzEp2J8
-Stylesheet URL: https://cdn.jsdelivr.net/gh/3x4nur0u5/beluga@bb3ba60/style.css
+Stylesheet URL: https://cdn.jsdelivr.net/gh/3x4nur0u5/beluga@afd2e30/style.css
 
 [size=6]Bug Report[/size]
 If you find any issues with the stylesheet, please post them in this thread. Identify your operating system, browser, browser version, and a screenshot or a link to a page where the bug occurs.
