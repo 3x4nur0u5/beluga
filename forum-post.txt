@@ -1,0 +1,10 @@
+[align=center]
+[size=10]Beluga[/size]
+
+[size=4][b]Designer:[/b] apopagasm
+[b]Developer:[/b] Exanurous[/size]
+
+Stylesheet URL: https://cdn.jsdelivr.net/gh/3x4nur0u5/beluga@main/style.css
+
+[size=6]Bug Report[/size]
+If you find any issues with the stylesheet, please post them in this thread. Identify your operating system, browser, browser version, and a screenshot or a link to a page where the bug occurs.
